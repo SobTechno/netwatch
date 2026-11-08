@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs contain your username, PC name, paths and IPs - never commit them
+*.csv
+*.log
+
+# IDE
+.vscode/
+.idea/
